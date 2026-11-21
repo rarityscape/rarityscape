@@ -1,0 +1,9 @@
+{
+    "name": "RarityScape",
+    "version": "0.2.0",
+    "contactEmailAddress": "rarityscape@outlook.com",
+    "hasSettingsIcon": true,
+    "requiredPermissions": [ "trackingAccess", "httpAccess" ],
+    "optionalPermissions": [],
+    "urls": { "api": "http://localhost:8080" }
+}
